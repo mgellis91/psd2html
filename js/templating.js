@@ -18,7 +18,8 @@
        licenseURL: "https://opensource.org/licenses/MIT",
        psdLinkName: "elemisfreebies.com",
        psdLinkURL: "http://elemisfreebies.com/04/08/webpaint-free-homepage-psd/",
-       livePreviewLink: "http://mgellis91.github.io/psd2html/webpaint_template/"
+       livePreviewLink: "http://mgellis91.github.io/psd2html_webpaint/",
+       githubLink: "https://github.com/mgellis91/psd2html_webpaint"
      },
      {
        title : "Minimo",
@@ -36,7 +37,8 @@
        licenseURL: "https://opensource.org/licenses/MIT",
        psdLinkName: "freebusiebug.com",
        psdLinkURL: "http://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/",
-       livePreviewLink: "http://mgellis91.github.io/psd2html/minimo_template/"
+       livePreviewLink: "http://mgellis91.github.io/psd2html_minimo/",
+       githubLink: "https://github.com/mgellis91/psd2html_minimo"
      },
    ]};
 
