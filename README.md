@@ -1,4 +1,4 @@
-# Webpaint PSD to HTML template
+# PSD to HTML Collection
 
 The PSD to HTML Collection was created to contain a number of free to use HTML templates that have been created with modern HTML5 and CSS3 standards from free to use PSD documents
 
