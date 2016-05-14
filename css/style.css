@@ -66,6 +66,11 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 	display: block;
 }
 
+
+img{
+	width: 100%;
+}
+
 footer{
 	padding: 1em;
 	background-color: #242424;
